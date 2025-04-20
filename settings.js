@@ -53,9 +53,9 @@ global.SESSION_ID = process.env.SESSION_ID || '';
 
 global.botname = process.env.BOT_NAME || 'XLICON-V4-MD';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '923184070915'];
+global.ownernumber = [process.env.OWNER_NUMBER || '2348077825595'];
 
-global.ownername = process.env.OWNER_NAME || '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙';
+global.ownername = process.env.OWNER_NAME || '死_ＮＥＭＥＳ１Ｘ♠️';
 
 
 //~~~~~~<Website and Social Links>~~~~~~~~~~\\
@@ -71,27 +71,27 @@ global.wm = process.env.WATERMARK || "Xlicon Bot Inc.";
 
 global.botscript = process.env.SCRIPT_LINK || 'https://github.com/salmanytofficial/XLICON-V4-MD';
 
-global.packname = process.env.PACK_NAME || "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉";
+global.packname = process.env.PACK_NAME || "";
 
-global.author = process.env.AUTHOR_NAME || "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿";
+global.author = process.env.AUTHOR_NAME || "MΛDΣ BY 死_ＮＥＭＥＳ１Ｘ";
 
-global.creator = process.env.CREATOR_NUMBER || "923184070915@s.whatsapp.net";
+global.creator = process.env.CREATOR_NUMBER || "2348077825595@s.whatsapp.net";
 
 
 //~~~~~~~~~~~~~<Bot Settings>~~~~~~~~~~~~~~~\\
-global.xprefix = process.env.XPREFIX || '.';
+global.xprefix = process.env.XPREFIX || 'X';
 
-global.premium = [process.env.PREMIUM_NUMBER || '923184070915'];
+global.premium = [process.env.PREMIUM_NUMBER || '2348077825595'];
 
 global.typemenu = process.env.MENU_TYPE || 'v2';
 
 global.typereply = process.env.REPLY_TYPE || 'v4';
 
-global.autoblocknumber = process.env.AUTOBLOCK_COUNTRYCODE || '212';
+global.autoblocknumber = process.env.AUTOBLOCK_COUNTRYCODE || '';
 
-global.antiforeignnumber = process.env.ANTIFOREIGN_COUNTRYCODE || '91';
+global.antiforeignnumber = process.env.ANTIFOREIGN_COUNTRYCODE || '';
 
-global.antidelete = process.env.ANTI_DELETE || 'true';
+global.antidelete = process.env.ANTI_DELETE || 'false';
 
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆'];
